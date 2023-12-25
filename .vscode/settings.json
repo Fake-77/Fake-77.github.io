@@ -1,5 +1,4 @@
 {
-    "githubPullRequests.ignoredPullRequestBranches": [
-        "master"
-    ]
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": ["coverpage"]
 }

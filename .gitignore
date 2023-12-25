@@ -1,2 +1,11 @@
-_site/
-.sass-cache/
+.DS_Store
+.idea
+*.log
+/_playwright-report
+/_playwright-results
+/lib
+/node_modules
+
+# exceptions
+!.gitkeep
+.vercel
