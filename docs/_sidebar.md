@@ -1,6 +1,6 @@
 - Getting started
 
-  - [Quick start](paper/2023.12.25.md)
+  - [Quick st](paper/2023.12.25.md)
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
