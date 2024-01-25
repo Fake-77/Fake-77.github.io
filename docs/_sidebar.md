@@ -2,8 +2,8 @@
 
   - [周报](paper/2023.12.25.md)
   - [111s](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [tomato](custom-navbar.md)
+  - [555](cover.md)
 
 - Customization
 
