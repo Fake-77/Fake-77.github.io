@@ -53,8 +53,8 @@ You can create sub-lists by indenting items that are under a certain parent.
 
 - Getting started
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
+  - [yeah!](quickstart.md)
+  - [111](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
