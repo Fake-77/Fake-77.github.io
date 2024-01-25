@@ -55,7 +55,7 @@ You can create sub-lists by indenting items that are under a certain parent.
 
   - [yeah!](quickstart.md)
   - [111](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
+  - [222](custom-navbar.md)
   - [Cover page](cover.md)
 
 - Configuration
